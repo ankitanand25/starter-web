@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 
 # Starter web project
-
+Starting project
 ## Introduction
 
 ## Purpose
