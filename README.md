@@ -15,7 +15,7 @@ Starting project
 
 
 ## How to contrbute
-
+Please fork this repository and then issue Pull Requests for review.
 ## Copyright notice
 
 Github trainining 2020
