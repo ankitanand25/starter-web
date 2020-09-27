@@ -15,3 +15,7 @@ Starting project
 
 
 ## How to contrbute
+
+## Copyright notice
+
+Github trainining 2020
